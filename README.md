@@ -5,7 +5,7 @@
 
 ```
 rm -rf FILE
-git clone --depth=1 https://github.com/STamim137/Tamim
+git clone https://github.com/STamim137/Tamim
 cd Tamim
 python FILE.py
 ```
